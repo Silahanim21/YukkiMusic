@@ -16,17 +16,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "29772838",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "15ce514f4f3fcea70d7a49dc5064b839",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token Get it from Botfather",
-        "value": "",
+        "value": "7445826535:AAEh1p986jgI-EaaSDZiRQnLMGEh1BV1azc",
         "required": true
       },
       "EXTRA_PLUGINS": {
@@ -36,17 +36,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb+srv://kurt67143:DLArCT171SF9wRKJ@alexsoza.xpoqv.mongodb.net/?retryWrites=true&w=majority&appName=Alexsoza",
         "required": false
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "7445826535",
         "required": true
       },
       "STRING_SESSIONS": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory. You Can Fill Multiple String Session Seperating With (,) comma",
-        "value": "",
+        "value": "BAHGTCYAlLYTB7lJIYw-wXCg_oe46qaXuR9F5_C4as5C8rj77pOcTehusn2RLdyvY1039TQxwaXKcnMgkTbT33lr5QhIrgTjEOa_J7EL4loLiICK7jreBTVlElF1Lccr1cII2dll2yk5MKEBtFGYg-trgwHshAbbJptHMD8ZzxsIqZRkpR5zqr9FtHyznHX52CfQpanHUPEV7QEhNfbMZkZeouH7BmyXJGfUwx0CgjndHAbIMW2Q_PC8locJOJOiYTRqzv8YmZ9G3OW84RXgEH2aQp2-eIK0g0Dd_uo0gN2-1uxBe1HdDFqz45tLpPZtGi8z_j4ZV1Ux3xfIHUROrXV_4Dl3rgAAAAGxQGFHAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -61,7 +61,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1002065943011",
         "required": true
       },
       "UPSTREAM_REPO": {
