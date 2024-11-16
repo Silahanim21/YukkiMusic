@@ -237,7 +237,7 @@ queue_4 : "**💫 Sıraya Eklendi #{0}**\n\n**🥀Başlık :** {1}\n**⏱ Süre 
 queue_5 : "Sıralamada yalnızca bir parça var, sıralamayı kontrol etmek için bazı parçalar ekleyin."
 
 # All Streaming Lines
-stream_1 : "**✮ Akış Başladı**\n\n**✯ Başlık :** [{0}]({1})\n**✬ Süre :** {2} dakika\n✭ Boyut :** {3}"
+stream_1 : "**🎧 Ş𝖺𝗋𝗄ı 𝖻𝖺ş𝗅𝖺𝖽ı **\n\n**✯ Başlık :** [{0}]({1})\n**✭ Süre :** {2} dakika\n✭ Boyut :** {3}"
 stream_2 : "➲ **Akış Başladı |**\n\n**‣ Akış Türü :** Canlı akış [URL]\n**‣ Ekleyen :** {0}"
 
 V_C_1 : "Katılımcı listesi getiriliyor...."
