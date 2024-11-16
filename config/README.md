@@ -1,24 +1,25 @@
+<h2 align="center">
+    ──「 kumsal ダ music 」──
+</h2>
 
-## Telegram Music Bot
-##  [ [Githup Repo](https://github.com/MehmetAtes21/music) ]
+<p align="center">
+  <img src="https://envs.sh/Lx9.jpg">
+</p>
 
-------------------------
+<p align="center">
+<a href="https://github.com/AnonymousX1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AnonymousX1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AnonymousX1025/AnonXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://github.com/AnonymousX1025/AnonXMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+</p>
 
-### ⏳ Genel Komutlar
-- `/oynat` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ᴏʏɴᴀᴛ**
-- `/bul` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ɪɴᴅɪʀ** 
-- `/durdur` •> **sᴀʀᴋɪʏɪ ᴅᴜʀᴅᴜʀ**
-- `/devam` •> **sᴀʀᴋɪʏɪ sᴜʀᴅᴜʀ**
-- `/atla` •> **sᴀʀᴋɪʏɪ ᴀᴛʟᴀʀ** 
-- `/son` •> **sᴀʀᴋɪʏɪ sᴏɴʟᴀɴᴅɪʀ**
-- `/reload` •> **ᴀᴅᴍɪɴ ʟɪsᴛᴇsɪɴɪ ɢᴜɴᴄᴇʟʟᴇʀ** 
-- `/katil` •> **ᴀsɪsᴛᴀɴ ɢʀᴜʙᴀ ᴋᴀᴛɪʟɪʀ**
-- `/ayril` •> **ᴀsɪsᴛᴀɴ ɢʀʏʙᴛᴀɴ ᴀʏʀɪʟɪʀ**
-- `/auth` •> **ᴋᴜʟʟᴀᴄɪʏɪ ʏᴇᴛᴋɪʟᴇɴᴅɪʀɪʀ**
-- `/unauth` •> **ᴋᴜʟʟᴀɴɪᴄɪʏɪ ʏᴇᴛᴋɪsɪᴢʟᴇsᴛɪʀɪʀ**
-- `/clean` •> **ʙᴏᴛᴜɴ ɪᴄɪɴᴅᴇᴋɪ ᴏɴᴇᴍsɪᴢ ᴠᴇʀɪʟᴇʀɪ ᴛᴇᴍɪᴢʟᴇʀ**
+<p align="center">
+  <img src="https://envs.sh/Lx9.jpg">
+</p>
 
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
 
-## Heroku Kurulum ⏳
-
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Silahanim21/YukkiMusic)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Silahanim21/YukkiMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
