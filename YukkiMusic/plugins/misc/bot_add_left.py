@@ -75,11 +75,11 @@ async def on_bot_kicked(_, message: Message):
             )
             chat_id = message.chat.id
             left = (
-                f"Bot was Removed in {title} #Left_group\n"
-                f"**Chat Name**: {title}\n"
-                f"**Chat Id**: {chat_id}\n"
-                f"**Chat Username**: {username}\n"
-                f"**Removed By**: {remove_by}"
+                f"Bot was Removed in {title} #yeni_grup\n"
+                f"**sohbet adı**: {title}\n"
+                f"**sohbet kimliği**: {chat_id}\n"
+                f"**kullanıcı adı**: {username}\n"
+                f"**ekleyen**: {remove_by}"
             )
 
             await app.send_message(
