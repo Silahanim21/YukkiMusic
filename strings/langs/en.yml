@@ -250,7 +250,7 @@ V_C_5 : "Bu sohbette aktif bir çağrı yok."
 
 #General Buttons
 CLOSE_BUTTON  : "🗑 𝖬𝖾𝗇ü𝗒ü 𝖪𝖺𝗉𝖺𝗍"
-CLOSEMENU_BUTTON  : "KAPAT"
+CLOSEMENU_BUTTON  : "🗑 𝖬𝖾𝗇ü𝗒ü 𝖪𝖺𝗉𝖺𝗍"
 BACK_BUTTON : "GERİ"
 UNBAN_BUTTON : "YASAKLAMAYI KALDIR"
 
@@ -280,13 +280,13 @@ P_B_4 : "🎵 Çalma Listesini Çal"
 
 P_B_5 : "SUSTUR"
 P_B_6 : "SUSTURMAYI KALDIR"
-P_B_7 : "ÇALMA LISTESİNE EKLE"
+P_B_7 : "✅ 𝖫𝗂𝗌𝗍𝖾𝗒𝖾 𝖤𝗄𝗅𝖾"
 
 
 # Playlist
 PL_B_1 : "🚀 OYNAT ÇALMA LİSTESİ"
 PL_B_2 : "Çalma Listesi"
-PL_B_3 : "Daha Fazla"
+PL_B_3 : "🔮 𝖢-𝖯𝖺𝗇𝖾𝗅"
 PL_B_4 : "📡 OYNAT MODU"
 PL_B_5 : "🔄 Tüm Çalma Listesini Sil"
 PL_B_6 : "↗️ Çalma Listesini Sil"
