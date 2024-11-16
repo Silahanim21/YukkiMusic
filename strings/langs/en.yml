@@ -249,7 +249,7 @@ V_C_5 : "Bu sohbette aktif bir çağrı yok."
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "KAPAT"
+CLOSE_BUTTON  : "🗑 𝖬𝖾𝗇ü𝗒ü 𝖪𝖺𝗉𝖺𝗍"
 CLOSEMENU_BUTTON  : "KAPAT"
 BACK_BUTTON : "GERİ"
 UNBAN_BUTTON : "YASAKLAMAYI KALDIR"
@@ -258,14 +258,14 @@ UNBAN_BUTTON : "YASAKLAMAYI KALDIR"
 L_B_1 : "🚀 Şarkı sözlerini şimdi kontrol et"
 
 # Start
-S_B_1 : "🗒 Komutlar"
-S_B_2 : "🔧 Ayarlar"
-S_B_3 : "📨 Destek"
-S_B_4 : "📨 Kanal"
-S_B_5 : "✚ Beni Grupınıza Ekleyin ✚"
-S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Sahip"
-S_B_8 : "🔎 Nasıl Kullanılır? Komut Menüsü"
+S_B_1 : "⚡ 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋 𝖬𝖾𝗇ü𝗌ü ⚡"
+S_B_2 : "⚙️ 𝖠𝗒𝖺𝗋𝗅𝖺𝗋 ⚙️"
+S_B_3 : "📢 𝖣𝖾𝗌𝗍𝖾𝗄 📢"
+S_B_4 : "📯 𝖣𝗎𝗒𝗎𝗋𝗎 📯"
+S_B_5 : "➕ 𝖡𝖾𝗇𝗂 𝖦𝗋𝗎𝖻𝗎𝗇𝖺 𝖤𝗄𝗅𝖾 ➕"
+S_B_6 : "🔰 𝖪𝖺𝗒𝗇𝖺𝗄 𝖪𝗈𝖽 🔰"
+S_B_7 : "🔱 𝖪𝗎𝗋𝗎𝖼𝗎 🔱"
+S_B_8 : "⚡ 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋 𝖬𝖾𝗇ü𝗌ü ⚡"
 
 #PlayMode
 PM_B_1 : "Doğrudan Çal"
